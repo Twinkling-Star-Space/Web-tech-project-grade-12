@@ -48,17 +48,8 @@ Start submitting and managing student data.
 
 ## 🔗 Project Structure
 
-Web-tech-project-grade-12/
-│
-├── index.html           # Home or main page
-├── student_form.php     # Form to submit student details
-├── submit.php           # Handles form submissions
-├── update.php           # Updates records in the database
-├── delete.php           # Deletes records from the database
-├── assets/              # Contains CSS, JS, or image files
-└── README.md            # Project documentation
+<img width="993" height="382" alt="image" src="https://github.com/user-attachments/assets/74e0386e-171a-4086-80a2-fb09612d280f" />
 
-Copy code
 
 💡 Notes
 
@@ -69,7 +60,9 @@ Designed to show full-stack interaction: front-end forms, client-side validation
 📧 Contact
 
 For questions or feedback, you can reach me at:
+
 Diplal Thakur Barhi
+
 Email: diplalthakurbarhi@gmail.com
 
 
